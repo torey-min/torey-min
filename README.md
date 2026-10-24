@@ -66,13 +66,17 @@ Design with purpose. Create with passion. Code with curiosity.
 ## 🎮 Currently Playing
 
 <p align="center">
-  <img src="https://placehold.co/240x135/20242c/ffffff?text=Wuthering+Waves" width="240" alt="Wuthering Waves" />
-  <img src="https://placehold.co/240x135/20242c/ffffff?text=Zenless+Zone+Zero" width="240" alt="Zenless Zone Zero" />
-  <img src="https://placehold.co/240x135/20242c/ffffff?text=Neverness+to+Everness" width="240" alt="Neverness to Everness" />
-  <img src="https://placehold.co/240x135/20242c/ffffff?text=Dota+2" width="240" alt="Dota 2" />
+  <a href="https://wutheringwaves.kurogames.com/">
+    <img src="https://placehold.co/240x135/20242c/ffffff?text=Wuthering+Waves" width="240" alt="Wuthering Waves" />
+  </a>
+  <a href="https://zenless.hoyoverse.com/">
+    <img src="https://placehold.co/240x135/20242c/ffffff?text=Zenless+Zone+Zero" width="240" alt="Zenless Zone Zero" />
+  </a>
+  <a href="https://nte.perfectworld.com/">
+    <img src="https://placehold.co/240x135/20242c/ffffff?text=Neverness+to+Everness" width="240" alt="Neverness to Everness" />
+  </a>
+  <a href="https://www.dota2.com/">
+    <img src="https://placehold.co/240x135/20242c/ffffff?text=Dota+2" width="240" alt="Dota 2" />
+  </a>
 </p>
 
-- 🌊 [Wuthering Waves](https://wutheringwaves.kurogames.com/)
-- ⚡ [Zenless Zone Zero](https://zenless.hoyoverse.com/)
-- 🌃 [Neverness to Everness](https://nte.perfectworld.com/)
-- 🛡️ [Dota 2](https://www.dota2.com/)
