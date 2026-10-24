@@ -41,10 +41,7 @@ AI Art Generation — Creating AI-generated images using Stable Diffusion
 
 Check out my repositories for my latest coding projects and experiments.
 
-## My Philosophy
-
-*Design with purpose. Create with passion. Code with curiosity.*
-
+Design with purpose. Create with passion. Code with curiosity.
 ---
 
 ⭐ Thanks for visiting my profile!
@@ -65,3 +62,17 @@ Check out my repositories for my latest coding projects and experiments.
 
 ### 🤖 AI & Creative Tools
 ![Stable Diffusion](https://img.shields.io/badge/Stable_Diffusion-7C3AED?style=for-the-badge&logo=stabilityai&logoColor=white)
+
+## 🎮 Currently Playing
+
+<p align="center">
+  <img src="https://placehold.co/240x135/20242c/ffffff?text=Wuthering+Waves" width="240" alt="Wuthering Waves" />
+  <img src="https://placehold.co/240x135/20242c/ffffff?text=Zenless+Zone+Zero" width="240" alt="Zenless Zone Zero" />
+  <img src="https://placehold.co/240x135/20242c/ffffff?text=Neverness+to+Everness" width="240" alt="Neverness to Everness" />
+  <img src="https://placehold.co/240x135/20242c/ffffff?text=Dota+2" width="240" alt="Dota 2" />
+</p>
+
+- 🌊 [Wuthering Waves](https://wutheringwaves.kurogames.com/)
+- ⚡ [Zenless Zone Zero](https://zenless.hoyoverse.com/)
+- 🌃 [Neverness to Everness](https://nte.perfectworld.com/)
+- 🛡️ [Dota 2](https://www.dota2.com/)
