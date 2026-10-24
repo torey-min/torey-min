@@ -67,7 +67,7 @@ Design with purpose. Create with passion. Code with curiosity.
 
 <p align="center">
   <a href="https://wutheringwaves.kurogames.com/">
-    <img src="[https://placehold.co/240x135/20242c/ffffff?text=Wuthering+Waves](https://wutheringwaves.kurogames.com/website-preface/assets/01_en-52a0cfc6.webp)" width="240" alt="Wuthering Waves" />
+    <img src="[[https://placehold.co/240x135/20242c/ffffff?text=Wuthering+Waves](https://wutheringwaves.kurogames.com/website-preface/assets/01_en-52a0cfc6.webp)](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg9u9xEHDBhdnp_O38r8mrBNGrnfndAwbm0h0kIZhURMl8ZwdH)" width="240" alt="Wuthering Waves" />
   </a>
   <a href="https://zenless.hoyoverse.com/">
     <img src="https://placehold.co/240x135/20242c/ffffff?text=Zenless+Zone+Zero" width="240" alt="Zenless Zone Zero" />
