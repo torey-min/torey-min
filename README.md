@@ -14,17 +14,24 @@ I love combining creativity and technology to bring ideas to life. From visual s
 
 💻 **Web Development** — Building websites and learning how to turn ideas into functional applications.
 
+🧊 3D Modeling — Creating 3D models and scenes with Blender
+
+🎮 Game Development — Exploring game creation with Unity
+
+🤖 AI Art Generation — Creating AI-generated images using Stable Diffusion
+
 ## 🛠️ Technologies & Tools
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, MySQL
 - **Testing:** Playwright
-- **Creative tools:** Add your video editing, photography, and design software here.
+- **Creative tools:** Adobe Premier Pro, Adobe Photoshop, Illustrator, InDesign.
+- **Game Development** Blender, Unity.
 
 ## 🚀 Currently Working On
 
 - Hop Travel app for project management module where my role is a tester
-- learning python for 
+- learning python for AI agent.
 - Improving my web development skills
 - Building personal and academic projects
 - Exploring creative web design and user experience
