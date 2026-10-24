@@ -70,13 +70,13 @@ Design with purpose. Create with passion. Code with curiosity.
     <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/3513350/fb969539fb0373bd5ee07c767bf9dafa4afae5c3/header.jpg?t=1791864800" width="240" alt="Wuthering Waves" />
   </a>
   <a href="https://zenless.hoyoverse.com/">
-    <img src="https://placehold.co/240x135/20242c/ffffff?text=Zenless+Zone+Zero" width="240" alt="Zenless Zone Zero" />
+    <img src="(https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4162040/22b56d833834d90674b30498f78e0839e48792db/header_alt_assets_2.jpg?t=1792533213)" width="240" alt="Zenless Zone Zero" />
   </a>
   <a href="https://nte.perfectworld.com/">
-    <img src="https://placehold.co/240x135/20242c/ffffff?text=Neverness+to+Everness" width="240" alt="Neverness to Everness" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4508340/2865c1f08217110a549e039a81a6461d8dc3c1d0/header.jpg?t=1790722094" width="240" alt="Neverness to Everness" />
   </a>
   <a href="https://www.dota2.com/">
-    <img src="https://placehold.co/240x135/20242c/ffffff?text=Dota+2" width="240" alt="Dota 2" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503" width="240" alt="Dota 2" />
   </a>
 </p>
 
