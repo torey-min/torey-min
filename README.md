@@ -1,26 +1,26 @@
-# Hey, I'm Min Kyaw 👋
+# Hey, I'm Min Kyaw 
 
 ### Creative Developer | Designer | Photographer
 
 I love combining creativity and technology to bring ideas to life.
 
-## ✨ What I Do
+## What I Do
 
-🎬 **Video Production** — Exploring visual storytelling, video editing, and cinematic ideas.
+**Video Production** — Exploring visual storytelling, video editing, and cinematic ideas.
 
-📸 **Photography** — Capturing moments, experimenting with composition, and playing with light.
+**Photography** — Capturing moments, experimenting with composition, and playing with light.
 
-🎨 **Design** — Creating visual concepts, graphics, and digital experiences.
+**Design** — Creating visual concepts, graphics, and digital experiences.
 
-💻 **Web Development** — Building websites and learning how to turn ideas into functional applications.
+**Web Development** — Building websites and learning how to turn ideas into functional applications.
 
-🧊 3D Modeling — Creating 3D models and scenes with Blender
+3D Modeling — Creating 3D models and scenes with Blender
 
-🎮 Game Development — Exploring game creation with Unity
+Game Development — Exploring game creation with Unity
 
-🤖 AI Art Generation — Creating AI-generated images using Stable Diffusion
+AI Art Generation — Creating AI-generated images using Stable Diffusion
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Frontend:** HTML, CSS, JavaScript
 - **Backend:** PHP, MySQL
@@ -28,7 +28,7 @@ I love combining creativity and technology to bring ideas to life.
 - **Creative tools:** Adobe Premier Pro, Adobe Photoshop, Illustrator, InDesign.
 - **Game Development** Blender, Unity.
 
-## 🚀 Currently Working On
+## Currently Working On
 
 - Hop Travel app for project management module where my role is a tester
 - learning python for AI agent.
@@ -37,11 +37,11 @@ I love combining creativity and technology to bring ideas to life.
 - Exploring creative web design and user experience
 - Learning more about software testing and automation
 
-## 📂 Featured Projects
+## Featured Projects
 
 Check out my repositories for my latest coding projects and experiments.
 
-## 🎯 My Philosophy
+## My Philosophy
 
 *Design with purpose. Create with passion. Code with curiosity.*
 
