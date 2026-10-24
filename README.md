@@ -2,7 +2,7 @@
 
 ### Creative Developer | Designer | Photographer
 
-I love combining creativity and technology to bring ideas to life. From visual storytelling and photography to designing interfaces and building websites, I'm always exploring new ways to create something meaningful.
+I love combining creativity and technology to bring ideas to life.
 
 ## ✨ What I Do
 
