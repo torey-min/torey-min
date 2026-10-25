@@ -79,7 +79,7 @@ Design with purpose. Create with passion. Code with curiosity.
     <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503" width="240" alt="Dota 2" />
   </a>
   <a href="https://www.square-enix.com/ffvii/en-gb/games/rebirth/">
-    <img src="https://fyre.cdn.sewest.net/ffvii-hub/6537947598774a5fd6944bf2/story-background-1-1--eyzD0CVNW.png" width="240" alt="Dota 2" />
+    <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799" width="240" alt="Dota 2" />
   </a>
 </p>
 
