@@ -78,5 +78,8 @@ Design with purpose. Create with passion. Code with curiosity.
   <a href="https://www.dota2.com/">
     <img src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1791407503" width="240" alt="Dota 2" />
   </a>
+  <a href="https://www.square-enix.com/ffvii/en-gb/games/rebirth/">
+    <img src="https://fyre.cdn.sewest.net/ffvii-hub/6537947598774a5fd6944bf2/story-background-1-1--eyzD0CVNW.png" width="240" alt="Dota 2" />
+  </a>
 </p>
 
